@@ -10,7 +10,7 @@ A complete Python application that calculates academic grades and provides perso
 ## 📸 Project Screenshots
 
 ### **1. Python Source Code - Part 1**
-![Python Code Screenshot 1](https://github.com/nassar-7729alh/gap-calculator/blob/main/screenshot/code-screenshot1.jpg)
+![Python Code Screenshot 1](https://github.com/nassar-7729alh/gap-calculator/raw/main/screenshot/code-screenshot1.jpg)
 
 ### **2. Python Source Code - Part 2**
 ![Python Code Screenshot 2](https://github.com/nassar-7729alh/gap-calculator/blob/main/screenshot/code-screenshot2.jpg)
@@ -180,4 +180,5 @@ MIT License - See LICENSE file for details.
 The Smart GPA Calculator is more than just a grade calculator—it's a motivational tool that encourages academic excellence while demonstrating solid programming fundamentals. Perfect for students, teachers, and anyone interested in Python development.
 
 "Good code not only works—it inspires!" - Nassar
+
 
